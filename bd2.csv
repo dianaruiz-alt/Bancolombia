@@ -1,0 +1,21 @@
+product_id;sku_ids;product_name;link_id;is_active;is_visible;fecha_ultima_actualizacion;que_se_actualizo;fecha_actualizacion_catalogo;fecha_actualizacion_oferta;consultado_el;creado_en;actualizado_en;Aliado;Linea;Id
+1;1;Proyecto vivienda 1;Proyecto-vivienda-1;Si;Si;18/09/2026;Catalogo;18/09/2026;18/09/2026;;;;Amarillo;Inmobiliario;
+2;2;Proyecto vivienda 2;Proyecto-vivienda-2;Si;Si;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Constructora Bolivar;Inmobiliario;
+3;3;Proyecto vivienda 3;Proyecto-vivienda-3;Si;Si;17/09/2026;Precio;17/09/2026;17/09/2026;;;;Marval ;Inmobiliario;
+4;4;Proyecto vivienda 4;Proyecto-vivienda-4;No;No;18/09/2026;Catalogo;18/09/2026;18/09/2026;;;;Amarillo;Inmobiliario;
+5;5;Proyecto vivienda 5;Proyecto-vivienda-5;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Constructora Bolivar;Inmobiliario;
+6;6;Proyecto vivienda 6;Proyecto-vivienda-6;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Marval ;Inmobiliario;
+7;7;Proyecto vivienda 7;Proyecto-vivienda-7;Si;Si;17/09/2026;Catalogo;17/09/2026;17/09/2026;;;;Amarillo;Inmobiliario;
+8;8;Proyecto vivienda 8;Proyecto-vivienda-8;Si;Si;10/09/2026;Precio;10/09/2026;10/09/2026;;;;Constructora Bolivar;Inmobiliario;
+9;9;Proyecto vivienda 9;Proyecto-vivienda-9;Si;Si;10/09/2026;Precio;10/09/2026;10/09/2026;;;;Marval ;Inmobiliario;
+10;10;Proyecto vivienda 10;Proyecto-vivienda-10;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Marval ;Inmobiliario;
+11;11;Proyecto Movilidad 1;Proyecto-Movilidad-1;No;No;18/09/2026;Catalogo;18/09/2026;18/09/2026;;;;Conceccionario1;Movilidad;
+12;12;Proyecto Movilidad 2;Proyecto-Movilidad-2;No;No;18/09/2026;Catalogo;18/09/2026;18/09/2026;;;;Conceccionario1;Movilidad;
+13;13;Proyecto Movilidad 3;Proyecto-Movilidad-3;No;No;18/09/2026;Catalogo;18/09/2026;18/09/2026;;;;Conceccionario1;Movilidad;
+14;14;Proyecto Movilidad 4;Proyecto-Movilidad-4;Si;Si;18/08/2026;Catalogo;18/08/2026;18/08/2026;;;;Conceccionario2;Movilidad;
+15;15;Proyecto Movilidad 5;Proyecto-Movilidad-5;Si;Si;18/08/2026;Catalogo;18/08/2026;18/08/2026;;;;Conceccionario2;Movilidad;
+16;16;Proyecto Movilidad 6;Proyecto-Movilidad-6;Si;Si;30/01/2026;Catalogo;30/01/2026;30/01/2026;;;;Conceccionario2;Movilidad;
+17;17;Proyecto Movilidad 7;Proyecto-Movilidad-7;Si;Si;18/08/2026;Catalogo;18/08/2026;18/08/2026;;;;Conceccionario3;Movilidad;
+18;18;Proyecto Movilidad 8;Proyecto-Movilidad-8;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Conceccionario3;Movilidad;
+19;19;Proyecto Movilidad 9;Proyecto-Movilidad-9;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Conceccionario3;Movilidad;
+20;20;Proyecto Movilidad 10;Proyecto-Movilidad-10;No;No;18/09/2026;Precio;18/09/2026;18/09/2026;;;;Conceccionario3;Movilidad;
